@@ -12,6 +12,7 @@ defmodule PrEEx.MixProject do
         main: "PrEEx.Engine"
       ],
       package: [
+        description: "An EEx engine optimized for preformatted text",
         licenses: ["MIT"],
         links: %{"GitHub" => "https://github.com/schrockwell/preex"}
       ],
